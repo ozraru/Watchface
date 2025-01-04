@@ -33,8 +33,11 @@ https://github.com/android/wear-os-samples/tree/833d83cc50354c92c9e1d3abf2b1502e
 
     <UserConfigurations>
         <ColorConfiguration id="themeColor" defaultValue="0" displayName="colors_label" screenReaderText="colors_label">
-            <ColorOption displayName="theme_one_label" id="0" colors="#000000 #101010 #00e040 #007020 #f0f0f0"/>
-            <ColorOption displayName="theme_two_label" id="1" colors="#16697a #d6d5d4 #33cd2b #333333 #000000"/>
+            <!-- background object_background main_active main_ambient text -->
+            <ColorOption displayName="theme_green_label" id="0" colors="#000000 #101010 #00e040 #00a830 #f0f0f0"/>
+            <ColorOption displayName="theme_red_label" id="1" colors="#000000 #101010 #e02000 #a81800 #f0f0f0"/>
+            <ColorOption displayName="theme_aqua_label" id="2" colors="#000000 #101010 #00c0e0 #0090a8 #f0f0f0"/>
+            <ColorOption displayName="theme_rainbow_label" id="5" colors="#000000 #ffffff #ff0000 #00ff00 #0000ff"/>
         </ColorConfiguration>
     </UserConfigurations>
 

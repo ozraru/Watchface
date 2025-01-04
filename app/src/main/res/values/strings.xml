@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Watchface</string>
+    <string name="colors_label">Color theme</string>
+    <string name="theme_green_label">Green</string>
+    <string name="theme_red_label">Red</string>
+    <string name="theme_aqua_label">Aqua</string>
+    <string name="theme_rainbow_label">Rainbow</string>
 </resources>
