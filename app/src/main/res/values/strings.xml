@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Watchface</string>
+    <string name="app_name">Simple Utility Watchface</string>
     <string name="colors_label">Color theme</string>
     <string name="theme_green_label">Green</string>
     <string name="theme_red_label">Red</string>
