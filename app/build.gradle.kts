@@ -9,7 +9,7 @@ android {
 
     defaultConfig {
         applicationId = "work.raru.watchface"
-        minSdk = 30
+        minSdk = 33
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
@@ -29,13 +29,4 @@ android {
     kotlinOptions {
         jvmTarget = "1.8"
     }
-}
-
-dependencies {
-
-    implementation("androidx.core:core-ktx:1.9.0")
-    implementation("com.google.android.gms:play-services-wearable:18.0.0")
-    implementation("androidx.percentlayout:percentlayout:1.0.0")
-    implementation("androidx.legacy:legacy-support-v4:1.0.0")
-    implementation("androidx.recyclerview:recyclerview:1.3.0")
 }
